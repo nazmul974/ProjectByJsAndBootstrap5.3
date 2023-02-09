@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="167" viewBox="0 0 225 167">
+  <g id="Group_3273" data-name="Group 3273" transform="translate(-1036 -194)">
+    <rect id="Rectangle_681" data-name="Rectangle 681" width="225" height="167" rx="25" transform="translate(1036 194)" fill="#f3fafa"/>
+    <text id="Out_Of_10" data-name="Out Of 10" transform="translate(1149 281)" fill="#4d51ef" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-35" y="0" fill="#000">Out Of </tspan><tspan y="0" fill="#4d51ef">10</tspan></text>
+    <text id="Final_Rating" data-name="Final Rating" transform="translate(1149 327)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-40" y="0">Final Rating</tspan></text>
+    <text id="_8.8" data-name="8.8" transform="translate(1129 244)" fill="#4d51ef" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">8.8</tspan></text>
+  </g>
+</svg>
